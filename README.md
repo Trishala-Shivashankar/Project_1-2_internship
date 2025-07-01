@@ -1,4 +1,5 @@
 🔹 Project 1: E-commerce Return Rate Reduction
+
 ecommerce_return_enhanced.csv	--> Main dataset used for analysis and modeling.
 
 proj_1_preprocessing.ipynb --> python preprocessing code for project 1.
@@ -15,6 +16,7 @@ proj_1_report.pdf --> project 1 report.
 
 
 🔹 Project 2: HR Analytics – Employee Attrition Prediction
+
 HR_Employee_Attrition_Enhanced.csv --> Preprocessed and encoded dataset used in modeling.
 
 proj_2_pcode.ipynb --> Python notebook with EDA, decision tree model, and SHAP analysis
